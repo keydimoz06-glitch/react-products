@@ -25,4 +25,24 @@ Aplicación de tienda en línea que permite listar, buscar, filtrar por categor�
 - DummyJSON API
 
 ## Estructura del proyecto
-
+```text
+react-products/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── ProductCard.jsx
+│   │   └── ProductList.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Products.jsx
+│   │   └── ProductDetail.jsx
+│   ├── services/
+│   │   └── productService.js
+│   ├── styles/
+│   │   └── main.css
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── package.json
+└── vite.config.js
