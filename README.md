@@ -9,12 +9,12 @@ Aplicación desarrollada en React + Vite que consume la API REST de DummyJSON pa
 - **Asignatura:** Desarrollo Web 2
 - **Técnico:** TSU en Desarrollo de Software
 - **Tutor:** Vladimir Mate
-- **Periodo de realización:** 26 de octubre al 01 de noviembre
+- **Periodo de realización:** Ciclo II-2026
 - **Ciclo:** II-2026
 
 ## Descripción
 
-Aplicación de tienda en línea que permite consultar, buscar, filtrar, crear, actualizar y eliminar productos usando los endpoints de DummyJSON.
+Aplicación de tienda en línea que permite listar, buscar, filtrar por categoría, paginar, crear, actualizar y eliminar productos consumiendo los endpoints de DummyJSON.
 
 ## Tecnologías utilizadas
 
@@ -22,6 +22,7 @@ Aplicación de tienda en línea que permite consultar, buscar, filtrar, crear, a
 - Vite
 - React Router DOM
 - CSS
+- DummyJSON API
 
 ## Estructura del proyecto
 
